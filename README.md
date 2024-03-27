@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Towerxx
-- 👀 I’m interested in Linux and electrical programming as well
-- 🌱 I’m currently learning a Python
+- 👀 I’m interested in Linux, electrical and programming
+- 🌱 I’m currently learning a Python and HTML
 - 📫 My adress email towerxx@kozacki.pl
 <!---
 Towerxx/Towerxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
